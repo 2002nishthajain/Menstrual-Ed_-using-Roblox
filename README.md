@@ -1,7 +1,7 @@
 # Menstrual-Ed_-using-Roblox
 Menstrual Education using Roblox- Interactive Game to facilitate menstrual education to females of all age and runs of life
 
--This is a Roblox game made to understand mentruation and have fun at the same time.
+-This is a Roblox game made to understand menstruation and have fun at the same time.
 -The game was designed in Roblox studio.
 -It is a multiplayer game and this can be done by hosting it in the Local server as a Team
 -Before this it is necessary to add the other players as a Team or collaborator in the project(until publishing).
